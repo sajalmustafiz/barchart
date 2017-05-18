@@ -50,7 +50,7 @@ bar(540,340,580,500);
 
 
 
-outtextxy(300,660,"Faruq Ahmed Masum");
+outtextxy(300,660,"Sajal Mustafiz");
 getch();
 closegraph();
 return 0;
